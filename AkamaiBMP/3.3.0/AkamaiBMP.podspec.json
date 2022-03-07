@@ -1,0 +1,27 @@
+{
+  "name": "AkamaiBMP",
+  "version": "3.3.0",
+  "summary": "Akamai BMP library",
+  "description": "Akamai BMP library for iOS.",
+  "homepage": "https://developer.akamai.com/tools/BotManagerPremier.html",
+  "license": {
+    "type": "Copyright",
+    "text": "Copyright 2022 Akamai Technologies. All rights reserved.\n"
+  },
+  "authors": {
+    "Akamai Technologies": "support@akamai.com"
+  },
+  "source": {
+    "http": "https://github.com/jonwonie/Specs/blob/master/AkamaiBMP.framework.zip?raw=true",
+    "sha256": "5311689919981e0fd6e745b31fbe21e97ddade250dbb32031a6913b168a02f8b"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "vendored_frameworks": "AkamaiBMP.xcframework",
+  "frameworks": [
+    "Accelerate",
+    "CoreMotion"
+  ],
+  "documentation_url": "https://developer.akamai.com/tools/BotManagerPremier.html"
+}
