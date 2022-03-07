@@ -12,7 +12,7 @@
     "Akamai Technologies": "support@akamai.com"
   },
   "source": {
-    "http": "https://github.com/jonwonie/Specs/blob/master/AkamaiBMP.framework.zip?raw=true",
+    "http": "https://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@github.com/jonwonie/Specs/blob/master/AkamaiBMP.framework.zip?raw=true",
     "sha256": "5311689919981e0fd6e745b31fbe21e97ddade250dbb32031a6913b168a02f8b"
   },
   "platforms": {
